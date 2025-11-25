@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE = "yourdockerhubusername/todo-app:latest"
+        IMAGE = "rai123pragya/todo-app:latest"
         VENV = ".venv"
         PYTHON = "/usr/bin/python3"
     }
