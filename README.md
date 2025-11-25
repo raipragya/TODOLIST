@@ -28,3 +28,5 @@ The pipeline automatically:
 📤 Pushes image to Docker Hub
 
 🚀 Deploys the container on the server
+
+docker hub repo link: https://hub.docker.com/repository/docker/rai123pragya/todo-app/tags/latest/sha256-bc3f64c5f470da3243872a0b60f63a0a40ea8355f0c5c7d61c501bbd7f1ac179
